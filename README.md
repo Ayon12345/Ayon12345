@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayon12345
+- 👋 Hi, I’m @Ayon
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning django 
 - 📫 How to reach me www.linkedin.com/in/afsar-ayon-5a350a1a0
